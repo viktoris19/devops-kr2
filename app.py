@@ -1,3 +1,4 @@
+# KR2: Osipova 
 import os
 import socket
 
